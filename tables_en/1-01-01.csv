@@ -17,6 +17,8 @@ notation,path,name,description
 632,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM10","Calcium (Ca++), PM10",
 633,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM2.5","Calcium (Ca++), PM2.5",
 634,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), total aerosol","Calcium (Ca++), total aerosol",
+,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium  (Ca++), PM10-PM1, in air","Calcium  (Ca++), PM10-PM1, in air",Mass concentration of calcium in PM10-PM1 in air
+,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium  (Ca++), PM10-PM2.5, in air","Calcium  (Ca++), PM10-PM2.5, in air",Mass concentration of calcium in PM10-PM2.5 in air
 635,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM10","Magnesium (Mg++), PM10",
 636,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM2.5","Magnesium (Mg++), PM2.5",
 637,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), total aerosol","Magnesium (Mg++), total aerosol",
