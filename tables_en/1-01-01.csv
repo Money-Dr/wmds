@@ -20,6 +20,10 @@ notation,path,name,description
 635,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM10","Magnesium (Mg++), PM10",
 636,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM2.5","Magnesium (Mg++), PM2.5",
 637,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), total aerosol","Magnesium (Mg++), total aerosol",
+,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM1, in air","Magnesium (Mg++), PM1, in air",Mass concentration of magnesium in PM1 in air
+,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM10-PM1, in air","Magnesium (Mg++), PM10-PM1, in air",Mass concentration of magnesium in PM10-PM1 in air
+,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM10-PM2.5, in air","Magnesium (Mg++), PM10-PM2.5, in air",Mass concentration of magnesium in PM10-PM2.5 in air
+,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++),  in precipitation","Magnesium (Mg++),  in precipitation",Mass concentration of magnesium in precipitation
 638,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM10","Potassium (K+), PM10",
 639,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM2.5","Potassium (K+), PM2.5",
 640,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), total aerosol","Potassium (K+), total aerosol",
