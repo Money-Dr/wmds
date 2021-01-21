@@ -190,6 +190,7 @@ GAWlocal,\WIGOS\GAW\GAW Local,GAW Local,Local GAW station
 GAWnonAffiliated,\WIGOS\GAW\GAW Other elements\Non-affiliated,Non-affiliated,Observing elements that are not affiliated with GAW or any of the co-sponsored programs
 GAWPFR,\WIGOS\GAW\GAW Contributing networks\GAW-PFR,GAW-PFR,GAW Precision Filter Radiometer Network
 GAWregional,\WIGOS\GAW\GAW Regional,GAW Regional,Regional GAW station
+GBON,\WIGOS\GOS\GOS Surface networks\GBON,GBON,Global Basic Observing Network
 GCWCryoNet,\WIGOS\GCW\GCW CryoNet station,GCW CryoNet station,"A GCW station measuring at least one variable of one cryosphere component, and meeting a set of defined requirements."
 GCWcontributing,\WIGOS\GCW\GCW Contributing station,GCW Contributing station,A GCW station which provides useful measurements of the cryosphere but does not meet all requirements for a CryoNet Station.
 GCWaffiliated,\WIGOS\GCW\GCW affiliated station,GCW affiliated station,"A station of an GCW affiliated network measuring at least one cryospheric variable, contributing to GCW in addition to CryoNet and GCW contributing stations."
@@ -321,12 +322,7 @@ PHOTONS,\WIGOS\GAW\GAW Other elements\AOD\PHOTONS,PHOTONS,"PHOTONS, federated to
 PMELMB,\Co-sponsored\GOOS\DBCP\PMEL MB,PMEL MB,PMEL Moored Buoys
 polarAOD,\WIGOS\GAW\GAW Other elements\AOD\PolarAOD,PolarAOD,Polar Aerosol Optical Depth Measurement Network Project
 PortugalMB,\Co-sponsored\GOOS\DBCP\PORTUGAL-MB,PORTUGAL-MB,Portugal - Instituto Hidrografico (IH)
-RBONpilot,\WIGOS\GOS\GOS Surface networks\RBON-Pilot Project,RBON-Pilot Project,Regional Basic Observing Network (pilot project)
-RBSNp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(P),RBSN(P),Regional Basic Synoptic Network upper-air station (PILOT)
-RBSNs,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(S),RBSN(S),Regional Basic Synoptic Network surface station (SYNOP)
-RBSNsp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(SP),RBSN(SP),NA
-RBSNst,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(ST),RBSN(ST),Regional Basic Synoptic Network surface and upper-air station (SYNOP/TEMP)
-RBSNt,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(T),RBSN(T),Regional Basic Synoptic Network upper-air station (TEMP)
+RBON,\WIGOS\GOS\GOS Surface networks\RBON,RBON,Regional Basic Observing Network
 saildrone,\Co-sponsored\GOOS\DBCP\SAILDRONE,SAILDRONE,N/A
 SAWSDB,\Co-sponsored\GOOS\DBCP\SAWS DB,SAWS DB,South African Weather Service Drifting Buoys programme
 scripps,\Co-sponsored\GOOS\DBCP\SCRIPPS,SCRIPPS,NA
